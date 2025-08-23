@@ -1,0 +1,27 @@
+{
+    "id": "B85895A2",
+    "path": "~/UCPH/thesis/methods_examples/graph_example.R",
+    "project_path": "graph_example.R",
+    "type": "r_source",
+    "hash": "2762773492",
+    "contents": "",
+    "dirty": true,
+    "created": 1753192771767.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1753204043,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1753265277488,
+    "read_only": false,
+    "read_only_alternatives": []
+}

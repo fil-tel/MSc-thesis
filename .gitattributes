@@ -1,0 +1,5 @@
+emp_data/data/neo.impute.1000g.sampleInfo_clusterInfo.txt filter=lfs diff=lfs merge=lfs -text
+emp_data/data/Vindija33.19_raw_eurasian_wModern filter=lfs diff=lfs merge=lfs -text
+models_analysis/data/41586_2016_BFnature18964_MOESM205_ESM.xlsx filter=lfs diff=lfs merge=lfs -text
+models_analysis/data/neo.impute.1000g.sampleInfo_clusterInfo.txt filter=lfs diff=lfs merge=lfs -text
+models_analysis/data/Vindija33.19_raw_eurasian_wModern filter=lfs diff=lfs merge=lfs -text
